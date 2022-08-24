@@ -1,19 +1,9 @@
-### Hi there 👋
+### Hi! Nice to see you. 👋
 
-<!--
-**keczanilles/keczanilles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 &nbsp;I’m Illés, 23 years old living in Budapest, Hungary.
+- 🌱 &nbsp;I’m currently learning at CodeCool
+- ⚡ &nbsp;Fun fact: I :heart: American Football and Xbox Gaming.
 
 
 ### Tech Stack, Tools & Programming Languages
@@ -52,6 +42,7 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keczanilles&theme=tokyonight)
+
 
 
 ### How to reach me?
