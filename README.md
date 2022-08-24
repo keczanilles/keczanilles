@@ -46,6 +46,7 @@
 
 
 ### How to reach me?
+
 [![Linkedin Badge](https://img.shields.io/badge/-Keczán_Illés-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/illés-keczán/)
 [![Gmail Badge](https://img.shields.io/badge/-illeskeczan99@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:illeskeczan99@gmail.com)
 [![Discord Badge](https://img.shields.io/badge/-illes19%236961-7289da?style=flat-square&logo=Discord&logoColor=white)](https://discordapp.com/users/699504945120149565)
