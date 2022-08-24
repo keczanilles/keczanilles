@@ -42,7 +42,7 @@
 ## 📊 GitHub Stats
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keczanilles&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keczanilles&count_private=true&theme=tokyonight)
 
 
 ### How to reach me?
