@@ -38,13 +38,6 @@
 
 
 
-
-## 📊 GitHub Stats
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keczanilles&count_private=true&theme=tokyonight)
-
-
 ### How to reach me?
 
 [![Linkedin Badge](https://img.shields.io/badge/-Keczán_Illés-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/illés-keczán/)
