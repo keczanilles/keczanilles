@@ -1,8 +1,8 @@
 ### Hi! Nice to see you. 👋
 
 
-- 🔭 &nbsp;I’m Illés, 23 years old living in Budapest, Hungary.
-- 🌱 &nbsp;I’m currently learning at CodeCool
+- 🔭 &nbsp;I’m Illés, 24 years old living in Budapest, Hungary.
+- 🌱 &nbsp;I’m currently working at Innoveo as a System Analyst
 - ⚡ &nbsp;Fun fact: I :heart: American Football and Xbox Gaming.
 
 
